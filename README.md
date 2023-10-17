@@ -65,5 +65,7 @@ This repo contains important papers related to the `Temporal Missing Data imputa
 # Few Important Videos on Missing Data:
 
 - [![TemporalMissing-Imputation2](https://img.youtube.com/vi/q-DyjA8ZmYM)](https://www.youtube.com/watch?v=q-DyjA8ZmYM)
+- [![Watch a Video on TemporalMissing-Imputation2](https://img.youtube.com/vi/q-DyjA8ZmYM/0.jpg)](https://www.youtube.com/watch?v=q-DyjA8ZmYM)
+
 
 
