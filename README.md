@@ -61,3 +61,10 @@ This repo contains important papers related to the `Temporal Missing Data imputa
 - Zhang-2023-**Large-Scale Traffic Data Imputation with Spatiotemporal Semantic Understanding** [[pdf]](https://github.com/shriyanksomvanshi/TemporalMissingImputation/blob/main/Papers/Zhang-2023-Large-Scale%20Traffic%20Data%20Imputation%20with%20Spatiotemporal%20Semantic%20Understanding.pdf) ❤️
 - Zhu-2022-**A Higher-Order Motif-Based Spatiotemporal Graph Imputation Approach for Transportation Networks** [[pdf]](https://github.com/shriyanksomvanshi/TemporalMissingImputation/blob/main/Papers/Zhu-2022-A%20Higher-Order%20Motif-Based%20Spatiotemporal%20Graph%20Imputation%20Approach%20for%20Transportation%20Networks.pdf) ❤️
 - Zhuang-2018 -**Innovative method for traffic data imputation based on convolutional neural nw** [[pdf]](https://github.com/shriyanksomvanshi/TemporalMissingImputation/blob/main/Papers/Zhuang-2018%20-Innovative%20method%20for%20traffic%20data%20imputation%20based%20on%20convolutional%20neural%20nw.pdf) ❤️
+
+# Few Important Videos on Missing Data:
+
+- [[A video on Missing Data]]()
+
+- [![Video Title](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=[VIDEO_ID](https://www.youtube.com/watch?v=q-DyjA8ZmYM)https://www.youtube.com/watch?v=q-DyjA8ZmYM)
+
