@@ -64,7 +64,5 @@ This repo contains important papers related to the `Temporal Missing Data imputa
 
 # Few Important Videos on Missing Data:
 
-- [[A video on Missing Data]]()
-
-- [![Video Title](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=[VIDEO_ID](https://www.youtube.com/watch?v=q-DyjA8ZmYM)https://www.youtube.com/watch?v=q-DyjA8ZmYM)
+- [![A video on Missing Data](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=[VIDEO_ID](https://www.youtube.com/watch?v=q-DyjA8ZmYM)https://www.youtube.com/watch?v=q-DyjA8ZmYM)
 
